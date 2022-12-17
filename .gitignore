@@ -1,0 +1,27 @@
+Code - OSS/
+Code/
+Electron/
+QtProject.conf
+calibre/
+cef_user_data/
+chromium/
+dconf/
+discord/
+gedit/
+gh/
+htop/
+inkdrop/
+libreoffice/
+liferea/
+lutris/
+mimeapps.list
+ncmpcpp/
+nvim.bak/
+pulse/
+pupgui/
+spicetify/
+spotify-tui/
+spotify/
+systemd/
+unity3d/
+vis/
