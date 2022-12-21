@@ -104,7 +104,9 @@ export BROWSER=/usr/bin/chromium
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias neo=neofetch
-
+alias pac=pacman
+alias pacclean='pacman -Qdtq | pacman -Rs -'
+alias open='xdg-open'
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/sainishwanth/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
@@ -120,3 +122,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+export PATH=$PATH:/home/sainishwanth/.spicetify
