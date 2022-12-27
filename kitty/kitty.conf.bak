@@ -86,6 +86,6 @@ background_opacity 0.8
 
 
 # BEGIN_KITTY_THEME
-# Borland
+# Tokyo Night Day
 include current-theme.conf
 # END_KITTY_THEME

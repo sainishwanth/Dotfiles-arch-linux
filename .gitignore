@@ -5,6 +5,7 @@ QtProject.conf
 calibre/
 cef_user_data/
 chromium/
+heroic/
 dconf/
 discord/
 gedit/
@@ -25,3 +26,19 @@ spotify/
 systemd/
 unity3d/
 vis/
+cmus/
+pavucontrol.ini
+picom.conf
+qBittorrent/
+transmission-remote-gtk/
+vlc/
+anipy-cli/
+bluetuith/
+browsh/
+coc/
+mutt/
+legendary/
+hakuneko-desktop/
+menus/
+wireshark/
+yuzu/
