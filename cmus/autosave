@@ -1,4 +1,4 @@
-set aaa_mode=all
+set aaa_mode=artist
 set altformat_current= %F%= %y
 set altformat_playlist= %f%= %y
 set altformat_title=%f
@@ -59,7 +59,7 @@ set dsp.ao.wav_dir=/home/sainishwanth
 set dsp.jack.resampling_quality=2
 set dsp.jack.server_name=
 set dsp.oss.device=
-set follow=false
+set follow=true
 set format_clipped_text=…
 set format_current= %{?a?%a - }%t
 set format_playlist= %a - %t %= %d 
@@ -97,7 +97,7 @@ set passwd=
 set pause_on_output_change=false
 set pl_sort=
 set play_library=true
-set play_sorted=false
+set play_sorted=true
 set repeat=true
 set repeat_current=false
 set replaygain=disabled
@@ -111,8 +111,8 @@ set show_all_tracks=true
 set show_current_bitrate=false
 set show_hidden=false
 set show_playback_position=true
-set show_remaining_time=false
-set shuffle=albums
+set show_remaining_time=true
+set shuffle=off
 set skip_track_info=false
 set smart_artist_sort=true
 set softvol=false

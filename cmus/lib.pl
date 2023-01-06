@@ -205,6 +205,23 @@
 /home/sainishwanth/Music/Anime/Best Anime Songs of 2022/48. Kaori Ishihara - Starry-eyed Chronicle.mp3
 /home/sainishwanth/Music/English/KAROL G - Tusa.mp3
 /home/sainishwanth/Music/Anime/AnimuMusic/K□DA - POP□STARS.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/02. A New Hope.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/04. Heroes.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/07. I Am the Sea.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/03. Ink Long Dry.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/09. Night in the Brume.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/08. Ominous Prognisticks.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/06. On Westerly Winds.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/01. Serenity.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 1/05. Westward Tide.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/01. Borderless.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/08. Crimson Sunset.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/05. Imagination.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/02. Old Wounds.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/03. Painted Foothills.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/07. The Worm's Tail.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/04. To the Sun.mp3
+/home/sainishwanth/Music/Piano Collections FINAL FANTASY XIV/Disc 2/06. Wailers And Waterwheels.mp3
 /home/sainishwanth/Music/English/Kendrick Lamar - HUMBLE..mp3
 /home/sainishwanth/Music/English/Kenndog - Beethoven.mp3
 /home/sainishwanth/Music/Anime/AnimuMusic/Kenshi Yonezu - ピースサイン.mp3
@@ -580,6 +597,11 @@
 /home/sainishwanth/Music/Anime/AnimuMusic/アトラスサウンドチーム - specialist.mp3
 /home/sainishwanth/Music/Anime/AnimuMusic/いとうかなこ - Hacking to the Gate - symphonic ver..mp3
 /home/sainishwanth/Music/Anime/AnimuMusic/いとうかなこ - ファティマ.mp3
+/home/sainishwanth/Music/Lofi/Strawberry Prince Lofi Remix Vol.2 F/05 すとぷり - Streamer (Lofi Remix - Instrumental).flac
+/home/sainishwanth/Music/Lofi/Strawberry Prince Lofi Remix Vol.2 F/04 すとぷり - アモーレ・ミオ (Lofi Remix - Instrumental).flac
+/home/sainishwanth/Music/Lofi/Strawberry Prince Lofi Remix Vol.2 F/03 すとぷり - マブシガリヤ (Lofi Remix - Instrumental).flac
+/home/sainishwanth/Music/Lofi/Strawberry Prince Lofi Remix Vol.2 F/02 すとぷり - 僕らだけのシャングリラ (Lofi Remix - Instrumental).flac
+/home/sainishwanth/Music/Lofi/Strawberry Prince Lofi Remix Vol.2 F/01 すとぷり - 青春チョコレート (Lofi Remix - Instrumental).flac
 /home/sainishwanth/Music/Anime/Best Anime Songs of 2022/36. なすお☆ - ハニージェットコースター.mp3
 /home/sainishwanth/Music/Anime/AnimuMusic/はてな - 声□.mp3
 /home/sainishwanth/Music/Anime/AnimuMusic/佐々木恵梨 - GATE OF STEINER.mp3
